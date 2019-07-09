@@ -1,6 +1,6 @@
 //
 //  WebCacheCleaner.swift
-//  SupremeBot
+// 
 //
 //  Created by Алексей Горбунов on 09/07/2019.
 //  Copyright © 2019 Алексей Горбунов. All rights reserved.
